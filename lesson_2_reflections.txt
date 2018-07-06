@@ -8,6 +8,8 @@ Staging area is  temporary  zone  where placed files  ready to commit. It  usefu
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+just  easy. with help of staging and diff I can track changes and can  add only needed  changes into staging area and  commit they. I can  repeat this  operation as many time as I need to  separate my changes into logical chnks
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
