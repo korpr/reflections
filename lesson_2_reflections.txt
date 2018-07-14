@@ -1,21 +1,21 @@
 What happens when you initialize a repository? Why do you need to do it?
-- Git create new  repository for as, and add  hidden directory that contain information about  remository
+	- Git create new  repository for as, and add  hidden directory that contain information about  remository
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-Staging area is  temporary  zone  where placed files  ready to commit. It  usefull for  controlling  what  you really want to commit.
+`Staging area is  temporary  zone  where placed files  ready to commit. It  usefull for  controlling  what  you really want to commit.
 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-just  easy. with help of staging and diff I can track changes and can  add only needed  changes into staging area and  commit they. I can  repeat this  operation as many time as I need to  separate my changes into logical chnks
+	just  easy. with help of staging and diff I can track changes and can  add only needed  changes into staging area and  commit they. I can  repeat this  operation as many time as I need to  separate my changes into logical chnks
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-1) need add  some  experemental futures
-2) test  some  fututres  that  not  requered
+	1) need add  some  experemental futures
+	2) test  some  fututres  that  not  requered
 
 
 How do the diagrams help you visualize the branch structure?
@@ -23,6 +23,13 @@ whith diagram  I can  show when  branch started and with  commit not reacheble
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	New commit  that  combine changes  from  all mergerd  branches
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+pros:
+	save time
+	in most time it more accuracy
+cons:
+	sometimes it is поспоссибле auto merge can make some mistakes
+ 
